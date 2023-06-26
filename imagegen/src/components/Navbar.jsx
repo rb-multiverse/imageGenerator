@@ -5,9 +5,9 @@ const Navbar = () => {
   return (
     <header>
       <h3>ImageGen</h3>
-      <div className="menu">
+      <div className='menu'>
         <Link className='link' to={"/"}>Home</Link>
-        <Link className='link' to={"/login"}>Login</Link>
+        <Link className='link' to={"/"}>Home</Link>
       </div>
     </header>
   )

@@ -31,13 +31,13 @@ This is a full stack image generator built as a part of the Multiverse Backend B
 
 - Create a new Firebase project at [https://console.firebase.google.com/](https://console.firebase.google.com/).
 - Retrieve your Firebase project configuration (apiKey, authDomain, etc.).
-- Update the configuration in the `src/firebase/firebase.js` file.
+- Update the configuration in the `src/firebase-config.js` file.
 
 4. Obtain the Hugging Face API access token:
 
 - Create an account on the Hugging Face website at [https://huggingface.co/](https://huggingface.co/).
 - Generate an API token from the account settings page.
-- Update the API token in the `src/utils/api.js` file.
+- Update the API token in the `src/firebase-config.js` file.
 
 5. Start the development server:
 

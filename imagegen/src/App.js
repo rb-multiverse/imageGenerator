@@ -10,11 +10,13 @@ const App = () => {
     <div>
       <BrowserRouter>
         <Navbar/>
+        <div className='container'>
         <Routes>
           <Route path="/" element={<Home/>}/>
           <Route path='/generate' element={<ImageGenerationForm/>}/>
           <Route path="/login" element={<Login/>} />
         </Routes>
+        </div>
       </BrowserRouter>
     </div>
   )

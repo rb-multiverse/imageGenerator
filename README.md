@@ -23,7 +23,7 @@ This is a full stack image generator built as a part of the Multiverse Backend B
 
 2. Install the required dependencies:
 
-    cd imageGenerator
+    cd imageGen
     
     npm install
 

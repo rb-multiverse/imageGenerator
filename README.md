@@ -23,11 +23,11 @@ This is a full stack image generator built as a part of the Multiverse Backend B
 
 2. Install the required dependencies:
 
-    cd full-stack-image-generator
+    cd imageGenerator
     
     npm install
 
-3. Configure Firebase:
+4. Configure Firebase:
 
 - Create a new Firebase project at [https://console.firebase.google.com/](https://console.firebase.google.com/).
 - Retrieve your Firebase project configuration (apiKey, authDomain, etc.).

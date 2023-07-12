@@ -1,6 +1,8 @@
 # Full Stack Image Generator
 
-This is a full stack image generator built as a part of the Multiverse Backend Bootcamp project. The application uses React, Firebase, and the Hugging Face API to generate images based on user inputs.
+This is a full-stack image generator built as a part of the Multiverse Backend Bootcamp project. The application uses React, Firebase, and the Hugging Face API to generate images based on user inputs.
+
+If you are interested in checking out my project's [wireframe](https://lucid.app/lucidchart/a7f09272-aef5-421e-8517-9cda595596a3/edit?viewport_loc=-1749%2C-950%2C3999%2C2345%2C0_0&invitationId=inv_3d61d8e8-d7c1-4e08-8ba3-a1b1897e5fcb).
 
 ## Features
 

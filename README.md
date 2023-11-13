@@ -21,13 +21,13 @@ If you are interested in checking out my project's [wireframe](https://lucid.app
 
 1. Clone the repository:
 
-    git clone <https://github.com/rb-multiverse/imageGenerator.git>
+    `git clone <https://github.com/rb-multiverse/imageGenerator.git>`
 
 2. Install the required dependencies:
 
-    cd imageGen
-    
-    npm install
+    `cd imageGen`
+
+    `npm install`
 
 4. Configure Firebase:
 
@@ -43,11 +43,11 @@ If you are interested in checking out my project's [wireframe](https://lucid.app
 
 5. Start the development server:
 
-    npm start
+    `npm start`
 
 6. Open the application in your browser:
 
-    http://localhost:3000
+    `http://localhost:3000`
 
 ## Contributing
 
